@@ -35,7 +35,7 @@ body{
 }
 
 #currentDay{
-    color: #4aaaa5;
+    color: white;
     float: right;
     font-size: 10pt;
 }
@@ -46,6 +46,7 @@ body{
     background-color: royalblue;
     text-align: center;
     position: relative;
+    padding: 5px;
 }
 
 footer{
