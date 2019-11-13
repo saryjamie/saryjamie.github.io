@@ -20,6 +20,18 @@
     width: 860px;
 }
 
+/* .linkedin{
+    float: left;
+}
+
+.github{
+    float: left;
+} */
+
+.container{
+    align-content: center;
+}
+
 .content{
     background-color: #ffffff;
     width: 860px;
@@ -34,20 +46,21 @@ body{
     background-image: url("../images/background.png");
 }
 
-#currentDay{
+/* #currentDay{
     color: white;
     float: right;
     font-size: 10pt;
-}
+} */
 
-#day-weather{
+/* #day-weather{
     float: right;
     color: white;
     background-color: royalblue;
     text-align: center;
     position: relative;
     padding: 5px;
-}
+
+} */
 
 footer{
     position: fixed;
