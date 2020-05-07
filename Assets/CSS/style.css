@@ -1,23 +1,19 @@
-
-
-#navbarNav{
-    float: right;
-    width: 100%;
+#navbarNav {
+  float: right;
+  width: 100%;
 }
 
-.navbar-brand{
-    color: white;
-    background-color: #4aaaa5;
-    padding-left: 15px;
-    padding-right: 15px;
-    
+.navbar-brand {
+  color: white;
+  background-color: #4aaaa5;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
-.navbar
-{
-    background-color: #ffffff;
-    border-bottom:2px solid #cccccc;
-    width: 860px;
+.navbar {
+  background-color: #ffffff;
+  border-bottom: 2px solid #cccccc;
+  width: 860px;
 }
 
 /* .linkedin{
@@ -28,19 +24,18 @@
     float: left;
 } */
 
-
-.content{
-    background-color: #ffffff;
-    width: 860px;
-    align-content: center;
-    padding: 20px;
-    margin-top: 20px;
-    color: #777777;
-    margin-bottom: 110px;
+.content {
+  background-color: #ffffff;
+  width: 860px;
+  align-content: center;
+  padding: 20px;
+  margin-top: 20px;
+  color: #777777;
+  margin-bottom: 110px;
 }
 
-body{
-    background-image: url("../images/background.png");
+body {
+  background-image: url("../images/background.png");
 }
 
 /* #currentDay{
@@ -59,15 +54,15 @@ body{
 
 } */
 
-footer{
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    color:white;
-    background-color: #666666;
-    padding: 10px;
-    border-top: 8px solid #4aaaa5;
-    text-align: center;
-    height: 50px;
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  background-color: #666666;
+  padding: 10px;
+  border-top: 8px solid #4aaaa5;
+  text-align: center;
+  height: 50px;
 }
