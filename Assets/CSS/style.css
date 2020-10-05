@@ -17,16 +17,8 @@
 }
 
 .links {
-  color: #777777;
+  color: #4aaaa5;
 }
-
-/* .linkedin{
-    float: left;
-}
-
-.github{
-    float: left;
-} */
 
 .content {
   background-color: #ffffff;
@@ -41,22 +33,6 @@
 body {
   background-image: url("../images/background.png");
 }
-
-/* #currentDay{
-    color: white;
-    float: right;
-    font-size: 10pt;
-} */
-
-/* #day-weather{
-    float: right;
-    color: white;
-    background-color: royalblue;
-    text-align: center;
-    position: relative;
-    padding: 5px;
-
-} */
 
 footer {
   position: fixed;
